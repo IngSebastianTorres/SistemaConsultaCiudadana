@@ -1,9 +1,9 @@
 ## Graphical content of web app
 
-![SISTEMACONSULTACIUDADANA](/SistemaDeConsultaCiudadana/imagenes/IniciarSesion.png)
-![SISTEMACONSULTACIUDADANA](/SistemaDeConsultaCiudadana/imagenes/home.png)
-![SISTEMACONSULTACIUDADANA](/SistemaDeConsultaCiudadana/imagenes/Registro.png)
-![SISTEMACONSULTACIUDADANA](/SistemaDeConsultaCiudadana/imagenes/Reporte.png)
-![SISTEMACONSULTACIUDADANA](/SistemaDeConsultaCiudadana/imagenes/IngresoCIudadano.png)
+![SISTEMACONSULTACIUDADANA](/imagenes/IniciarSesion.png)
+![SISTEMACONSULTACIUDADANA](/imagenes/home.png)
+![SISTEMACONSULTACIUDADANA](/imagenes/Registro.png)
+![SISTEMACONSULTACIUDADANA](/imagenes/Reporte.png)
+![SISTEMACONSULTACIUDADANA](/imagenes/IngresoCIudadano.png)
 
 
