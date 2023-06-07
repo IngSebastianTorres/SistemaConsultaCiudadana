@@ -4,6 +4,6 @@
 ![SISTEMACONSULTACIUDADANA](/imagenes/home.png)
 ![SISTEMACONSULTACIUDADANA](/imagenes/Registro.png)
 ![SISTEMACONSULTACIUDADANA](/imagenes/Reporte.png)
-![SISTEMACONSULTACIUDADANA](/imagenes/IngresoCIudadano.png)
+![SISTEMACONSULTACIUDADANA](/imagenes/ingresoCIudadano.png)
 
 
